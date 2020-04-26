@@ -13,6 +13,17 @@
 <p>Death:&nbsp;March 31, 1727, Kensington, London, United Kingdom</p>
 <p>Known for: the Newtonian mechanics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(1).pdf">The method of fluxions and infinite series : with its application to the geometry of curve-lines</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(2).pdf">A new theory of light and colours</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(3).rar">Opticks: or, A Treatise of the Reflexions, Refractions, Inflexions and Colours of Light</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(4).pdf">The Principia: Mathematical Principles of Natural Philosophy</a></li>
+</ul>
+</br>
+
+
 <p>[4] <a href="https://en.wikipedia.org/wiki/Euclid">Euclid</a></p>
 <p>Known for: the Foundations of Mathematics</p>
 <p>&nbsp;</p>
