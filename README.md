@@ -187,6 +187,18 @@
 <p>Born:&nbsp;476 AD, Assaka</p>
 <p>Death:&nbsp;550 AD, India</p>
 <p>Known for: the contribution to mathematics, science and astronomy<br />&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(8).pdf">The Aryabhatiya</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(9).pdf">The Aryabhatiya of Aryabhata (An Ancient Indian Work on Mathematics and Astronomy)</a></li>
+
+</ul>
+
+</br>
+
+
 <p>[12] <a href="https://en.wikipedia.org/wiki/Georg_Cantor">Georg Cantor</a></p>
 <p>Born:&nbsp;March 3, 1845, Saint Petersburg, Russian Empire</p>
 <p>Death:&nbsp;January 6, 1918 (aged 72), Halle, Province of Saxony, German Empire</p>
