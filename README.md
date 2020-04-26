@@ -204,6 +204,20 @@
 <p>Death:&nbsp;January 6, 1918 (aged 72), Halle, Province of Saxony, German Empire</p>
 <p>Known for: the set theory</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(10).pdf">Contributions to the Founding of the Theory of Transfinite Numbers </a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(11).pdf">The Continuum, and Other Types of Serial Order, With an Introduction to Cantor's Transfinite Numbers</a></li>
+
+</ul>
+
+</br>
+
+
+
+
 <p>[13] <a href="https://en.wikipedia.org/wiki/Gerolamo_Cardano">Girolamo Cardano</a></p>
 <p>Born: 24 September 1501, Pavia</p>
 <p>Death:&nbsp;21 September 1576 (aged 74), Italy</p>
