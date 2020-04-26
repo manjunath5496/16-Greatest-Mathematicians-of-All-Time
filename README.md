@@ -3,6 +3,13 @@
 <p>Death: February 23, 1855, G&ouml;ttingen, Germany</p>
 <p>Known for: the number theory</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(293).pdf">General Investigations of Curved Surfaces</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(292).pdf">Theory of the Motion of the Heavenly Bodies Moving about the Sun in Conic Sections</a></li>
+</ul>
+</br>
 <p>[2] <a href="https://en.wikipedia.org/wiki/Leonhard_Euler">Leonhard Euler</a></p>
 <p>Born: April 15, 1707, Basel, Switzerland</p>
 <p>Death: September 18, 1783, Saint Petersburg, Russia</p>
