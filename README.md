@@ -103,6 +103,21 @@
 <p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
 <p>Known for: Twentieth-Century Science</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(5).pdf">The Meaning of Relativity</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(6).pdf">The Evolution of Physics</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(7).pdf">Ideas and Opinions</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(8).pdf">The World as I See It</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(9).pdf">Out of My Later Years: The Scientist, Philosopher and Man Portrayed Through His Own Words</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(10).pdf">Relativity: The Special and the General Theory</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(11).pdf">On the electrodynamics of moving bodies</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(12).pdf">The Collected Papers of Albert Einstein</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(212).pdf">Fundamental ideas and problems of the theory of relativity [Nobel Lecture]</a></li>
+</ul>
+</br>
+
 <p>[9]<a href="https://en.wikipedia.org/wiki/Pythagoras"> Pythagoras</a></p>
 <p>Known for: Pythagorean Theorem</p>
 <p>&nbsp;</p>
