@@ -16,6 +16,14 @@
 <p>[4] <a href="https://en.wikipedia.org/wiki/Euclid">Euclid</a></p>
 <p>Known for: the Foundations of Mathematics</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(317).pdf">The First Six Books of the Elements of Euclid</a></li>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(318).pdf">Euclid's Optics</a></li>
+</ul>
+</br>
+
 <p>[5] <a href="https://en.wikipedia.org/wiki/Srinivasa_Ramanujan">Srinivasa Ramanujan</a></p>
 <p>Born: December 22, 1887, Erode</p>
 <p>Death: April 26, 1920, Kumbakonam</p>
