@@ -127,6 +127,12 @@
 <p>[9]<a href="https://en.wikipedia.org/wiki/Pythagoras"> Pythagoras</a></p>
 <p>Known for: Pythagorean Theorem</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(367).pdf">Ancient Philosophy: Or the Enchiridion of Epictetus, and Chrusa Epe of Pythagoras, Tr. Into English Prose and Verse with Large and Copious Notes, Explanatory of the Different Systems of the Grecian Philosophy; And Scriptural References in Illustration of</a></li>
+</ul>
+</br>
 <p>[10] <a href="https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes">Ren&eacute; Descartes</a></p>
 <p>Birth: 31 March 1596, La Haye en Touraine, Kingdom of France</p>
 <p>Death: 11 February 1650 (aged 53), Stockholm, Swedish Empire</p>
