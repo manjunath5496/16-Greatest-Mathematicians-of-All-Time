@@ -111,6 +111,27 @@
 <p>Death:&nbsp;November 14, 1716, Hanover, Germany</p>
 <p>Known for: the Contributions to the differential and integral calculus</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(1).pdf">A system of theology</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(2).pdf">The Early Mathematical Manuscripts of Leibniz</a></li>
+  
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(3).pdf">Discourse on Metaphysics</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(4).pdf">New Essays on Human Understanding</a></li>
+ <li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(5).pdf">The Monadology and Other Philosophical Writings </a></li>   
+  
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(6).pdf">The Monadology</a></li>   
+  
+ <li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(7).pdf">Protogaea</a></li>   
+    
+  
+</ul>
+</br>
+
+
+
 <p>[8] <a href="https://en.wikipedia.org/wiki/Albert_Einstein">Albert Einstein</a></p>
 <p>Birth: March 14, 1879, Ulm, Wurttemberg, Germany</p>
 <p>Death: April 18, 1955, Princeton, N.J., U.S.</p>
