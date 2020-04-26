@@ -223,6 +223,20 @@
 <p>Death:&nbsp;21 September 1576 (aged 74), Italy</p>
 <p>Known for: Polymath</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(12).pdf">Ars Magna or the Rules of Algebra</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(13).pdf">The Book of My Life: (De Vita Propria Liber)</a></li>
+
+</ul>
+
+</br>
+
+
+
+
 <p>[14] <a href="https://en.wikipedia.org/wiki/John_Horton_Conway">John Horton Conway</a></p>
 <p>Known for: the contributions to combinatorial game theory&nbsp;</p>
 <p>&nbsp;</p>
