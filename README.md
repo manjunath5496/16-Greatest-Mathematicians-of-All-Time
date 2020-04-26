@@ -21,6 +21,54 @@
 <p>Death: April 26, 1920, Kumbakonam</p>
 <p>Known for: the analytical theory of numbers</p>
 <p>&nbsp;</p>
+<p> <strong> Publications: </strong> </p> <hr>
+
+
+<ol>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram01.pdf">Some properties of Bernoulli's numbers</a><br />Journal of the Indian Mathematical Society, III, 1911, 219 &ndash; 234</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram02.pdf">On question 330 of Professor Sanjana</a><br />Journal of the Indian Mathematical Society, IV, 1912, 59 &ndash; 61</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram03.pdf">Note on a set of simultaneous equations</a><br />Journal of the Indian Mathematical Society, IV, 1912, 94 &ndash; 96</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram04.pdf">Irregular numbers</a><br />Journal of the Indian Mathematical Society, V, 1913, 105 &ndash; 106</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram05.pdf">Squaring the circle</a><br />Journal of the Indian Mathematical Society, V, 1913, 132</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram06.pdf">Modular equations and approximations to &pi;</a><br />Quarterly Journal of Mathematics, XLV, 1914, 350 &ndash; 372</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram07.pdf">On the integral&nbsp;<img src="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/raw/master/1.jpg" alt="" /></a><br />Journal of the Indian Mathematical Society, VII,1915, 93 &ndash; 96</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram08.pdf">On the number of divisors of a number</a><br />Journal of the Indian Mathematical Society, VII, 1915, 131 &ndash; 133</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram09.pdf">On the sum of the square roots of the first n natural numbers</a><br />Journal of the Indian Mathematical Society, VII, 1915, 173 &ndash; 175</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram10.pdf">On the product&nbsp;<img src="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/raw/master/2.jpg" alt="" /></a><br />Journal of the Indian Mathematical Society, VII, 1915, 209 &ndash; 211</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram11.pdf">Some definite integrals</a><br />Messenger of Mathematics, XLIV, 1915, 10 &ndash; 18</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram12.pdf">Some definite integrals connected with Gauss's sums</a><br />Messenger of Mathematics, XLIV, 1915, 75 &ndash; 85</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram13.pdf">Summation of a certain series</a><br />Messenger of Mathematics, XLIV, 1915, 157 &ndash; 160</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram14.pdf">New expressions for Riemann's functions &xi;(s) and &Xi;(t)</a><br />Quarterly Journal of Mathematics, XLVI, 1915, 253 &ndash; 260</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram15.pdf">Highly composite numbers</a><br />Proceedings of the London Mathematical Society, 2, XIV, 1915, 347 &ndash; 409</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram16.pdf">On certain infinite series</a><br />Messenger of Mathematics, XLV, 1916, 11 &ndash; 15</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram17.pdf">Some formul&aelig; in the analytic theory of numbers</a><br />Messenger of Mathematics, XLV, 1916, 81 &ndash; 84</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram18.pdf">On certain arithmetical functions</a><br />Transactions of the Cambridge Philosophical Society, XXII, No.9, 1916, 159 &ndash; 184</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram19.pdf">A series for Euler's constant &gamma;</a><br />Messenger of Mathematics, XLVI, 1917, 73 &ndash; 80</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram20.pdf">On the expression of a number in the form ax<sup>2</sup>&nbsp;+ by<sup>2</sup>&nbsp;+ cz<sup>2</sup>&nbsp;+ du<sup>2</sup></a><br />Proceedings of the Cambridge Philosophical Society, XIX, 1917, 11 &ndash; 21</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram21.pdf">On certain trigonometrical sums and their applications in the theory of numbers</a><br />Transactions of the Cambridge Philosophical Society, XXII, No.13, 1918, 259 &ndash; 276</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram22.pdf">Some definite integrals</a><br />Proceedings of the London Mathematical Society, 2, XVII, 1918,Records for 17 Jan. 1918</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram23.pdf">Some definite integrals</a><br />Journal of the Indian Mathematical Society, XI, 1919, 81 &ndash; 87</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram24.pdf">A proof of Bertrand's postulate</a><br />Journal of the Indian Mathematical Society, XI, 1919, 181 &ndash; 182</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram25.pdf">Some properties of p(n), the number of partitions of n</a><br />Proceedings of the Cambridge Philosophical Society, XIX, 1919, 207 &ndash; 210</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram26.pdf">Proof of certain identities in combinatory analysis</a><br />Proceedings of the Cambridge Philosophical Society, XIX, 1919,214 &ndash; 216</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram27.pdf">A class of definite integrals</a><br />Quarterly Journal of Mathematics, XLVIII, 1920, 294 &ndash; 310</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram28.pdf">Congruence properties of partitions</a><br />Proceedings of the London Mathematical Society, 2, XVIII, 1920, Records for 13 March 1919</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram29.pdf">Algebraic relations between certain infinite products</a><br />Proceedings of the London Mathematical Society, 2, XVIII, 1920, Records for 13 March 1919</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram30.pdf">Congruence properties of partitions</a><br />Mathematische Zeitschrift, IX, 1921, 147 &ndash; 153</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram31.pdf">Une formule asymptotique pour le nombre des partitions de n</a><br />(written in collaboration with G. H. Hardy)<br />Comptes Rendus, 2 Jan. 1917</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram32.pdf">Proof that almost all numbers n are composed of about log log n prime factors</a><br />(written in collaboration with G. H. Hardy)<br />Proceedings of the London Mathematical Society, 2, XVI,1917,Records for 14 Dec. 1916</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram33.pdf">Asymptotic formul&aelig; in combinatory analysis</a><br />(written in collaboration with G. H. Hardy)<br />Proceedings of the London Mathematical Society, 2, XVI, 1917, Records for 1 March 1917</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram34.pdf">Asymptotic formul&aelig; for the distribution of integers of various types</a><br />(written in collaboration with G. H. Hardy)<br />Proceedings of the London Mathematical Society, 2, XVI, 1917, 112 &ndash; 132</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram35.pdf">The normal number of prime factors of a number n</a><br />(written in collaboration with G. H. Hardy)<br />Quarterly Journal of Mathematics, XLVIII, 1917, 76 &ndash; 92</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram36.pdf">Asymptotic formul&aelig; in combinatory analysis</a><br />(written in collaboration with G. H. Hardy)<br />Proceedings of the London Mathematical Society, 2, XVII, 1918, 75 &ndash; 115</li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/ram37.pdf">On the coefficients in the expansions of certain modular functions</a><br />(written in collaboration with G. H. Hardy)<br />Proceedings of the Royal Society, A, XCV, 1919, 144 &ndash; 155</li>
+</ol>
+
+</br>
+
+
+
+
 <p>[6] <a href="https://en.wikipedia.org/wiki/Pierre_de_Fermat">Pierre de Fermat</a></p>
 <p>Born:&nbsp;August 17, 1601, Beaumont-de-Lomagne, France</p>
 <p>Death:&nbsp;January 12, 1665, Castres, France</p>
