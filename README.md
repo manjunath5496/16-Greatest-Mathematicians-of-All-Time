@@ -8,6 +8,12 @@
 <p>Death: September 18, 1783, Saint Petersburg, Russia</p>
 <p>Known for: the Euler's theorem</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/The-100-Most-Influential-Scientists-of-All-Time/blob/master/tst(272).pdf">Elements of Algebra</a></li>
+</ul>
+</br>
 <p>[3] <a href="https://en.wikipedia.org/wiki/Isaac_Newton">Isaac Newton</a></p>
 <p>Born:&nbsp;January 4, 1643, Woolsthorpe-by-Colsterworth, United Kingdom</p>
 <p>Death:&nbsp;March 31, 1727, Kensington, London, United Kingdom</p>
