@@ -191,7 +191,7 @@
 <p><strong>Publications:</strong></p>
 <hr />
 <ul>
-<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(8).pdf">The Aryabhatiya</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(8).pdf">The Aryabhatiya: A Manual of Astronomy, with the Commentary Bhatadipika of Paramadicvara </a></li>
 <li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(9).pdf">The Aryabhatiya of Aryabhata (An Ancient Indian Work on Mathematics and Astronomy)</a></li>
 
 </ul>
