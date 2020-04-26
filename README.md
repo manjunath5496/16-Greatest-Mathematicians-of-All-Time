@@ -240,6 +240,32 @@
 <p>[14] <a href="https://en.wikipedia.org/wiki/John_Horton_Conway">John Horton Conway</a></p>
 <p>Known for: the contributions to combinatorial game theory&nbsp;</p>
 <p>&nbsp;</p>
+
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(14).pdf">Sphere packings, lattices, and groups</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(15).pdf">The sensual (quadratic) form</a></li>
+  
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(16).pdf">ATLAS of Finite Groups</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(17).pdf">On Quaternions and Octonions</a></li>  
+  
+ <li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(18).pdf">Winning Ways for Your Mathematical Plays, Volume 4</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(19).pdf">Interview with
+John Horton Conway</a></li>  
+   
+ <li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(20).pdf">The Symmetries of Things</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(21).pdf">Winning Ways for Your Mathematical Plays, Volume 1</a></li>    
+
+</ul>
+
+</br>
+
+
+
+
+
 <p>[15] <a href="https://en.wikipedia.org/wiki/Grigori_Perelman">Grigori Perelman</a></p>
 <p>Known for: the Riemannian geometry and geometric topology</p>
 <p>&nbsp;</p>
