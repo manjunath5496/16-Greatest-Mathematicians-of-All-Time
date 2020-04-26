@@ -269,6 +269,20 @@ John Horton Conway</a></li>
 <p>[15] <a href="https://en.wikipedia.org/wiki/Grigori_Perelman">Grigori Perelman</a></p>
 <p>Known for: the Riemannian geometry and geometric topology</p>
 <p>&nbsp;</p>
+
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(22).pdf">The entropy formula for the Ricci flow and its geometric applications</a></li>
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(23).pdf">Ricci flow with surgery on three-manifolds</a></li>
+  
+<li><a href="https://github.com/manjunath5496/16-Greatest-Mathematicians-of-All-Time/blob/master/tsr(24).pdf">Finite extinction time for the solutions to the Ricci flow on certain three-manifolds</a></li>
+
+</ul> 
+</br>
+
+
+
 <p>[16] <a href="https://en.wikipedia.org/wiki/Hypatia">Hypatia</a></p>
 <p>Born: c. 350&ndash;370 AD, Alexandria, Province of Egypt, Eastern Roman Empire</p>
 <p>Death: March 415 AD (aged 44&ndash;65),&nbsp; Alexandria, Province of Egypt, Eastern Roman Empire</p>
