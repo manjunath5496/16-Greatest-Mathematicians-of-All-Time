@@ -166,6 +166,23 @@
 <p>Death: 11 February 1650 (aged 53), Stockholm, Swedish Empire</p>
 <p>Known for: Cartesian coordinate system</p>
 <p>&nbsp;</p>
+<p><strong>Publications:</strong></p>
+<hr />
+<ul>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(1).pdf">A Discourse on the Method of Correctly Conducting One's Reason and Seeking Truth in the Sciences</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(2).pdf">The Passions of the Soul</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(3).pdf">Rules for the Direction of the Mind</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(4).pdf">Meditations on First Philosophy: With Selections from the Objections and Replies</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(5).pdf">The Philosophical Writings of Descartes</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(6).pdf">Meditations: Background Source Materials</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(7).pdf">The Geometry of Rene Descartes</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(8).pdf">Correspondence between Descartes and Princess Elisabeth</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(9).pdf">The World and Other Writings</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(10).pdf">Meditations, Objections, and Replies</a></li>
+<li><a href="https://github.com/manjunath5496/Rene-Descartes-Books/blob/master/rde(11).pdf">Philosophical Essays and Correspondence</a></li>
+</ul>
+</br>
+
 <p>[11]<a href="https://en.wikipedia.org/wiki/Aryabhata"> Aryabhata</a></p>
 <p>Born:&nbsp;476 AD, Assaka</p>
 <p>Death:&nbsp;550 AD, India</p>
